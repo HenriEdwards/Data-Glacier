@@ -23,14 +23,3 @@ Customer_ID.csv – this is a mapping table that contains a unique identifier wh
 Transaction_ID.csv – this is a mapping table that contains transaction to customer mapping and payment mode
 
 City.csv – this file contains list of US cities, their population and number of cab users
-
-You should fully investigate and understand each data set.
-
-Review the Source Documentation
-Understand the field names and data types
-Identify relationships across the files
-Field/feature transformations
-Determine which files should be joined versus which ones should be appended
-Create master data and explain the relationship
-Identify and remove duplicates
-Perform other analysis like NA value and outlier detection
